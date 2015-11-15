@@ -6,7 +6,9 @@ This is a script to help setup interaction engine projects. This code will creat
 # Requirements
 1) Arduino-mk: The will be used to setup the command line arduino tool in your project directory
   - To install see: https://github.com/sudar/Arduino-Makefile
+
 2) node.js: some version of node.js must be installed and have npm installed
   - On RPi: I recommend installing through Adafruit Occidentalis: https://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro/occidentalis-v0-dot-3
-3) bower: bower must be installed to 
+
+3) bower: bower must be installed to manage front end web packages
   - Install using: `npm install -g bower`
